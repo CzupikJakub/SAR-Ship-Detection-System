@@ -33,10 +33,13 @@ Here is the output of the classification pipeline. Colors indicate vessel size (
 
 *Sample Mission Report Data:*
 | ID | Category | Length (m) | Heading (deg) |
-|----|----------|------------|---------------|
-| 0  | Small    | 45m        | 86            |
-| 1  | Medium   | 110m       | 90            |
-| 2  | Large    | 180m       | 88            |
+| :--- | :--- | :--- | :--- |
+| 0 | Small | 77m | 88 |
+| 1 | Medium | 87m | 90 |
+| 2 | Medium | 100m | 85 |
+| 3 | Large | 125m | 89 |
+| 4 | Large | 130m | 91 |
+| 5 | Large | 136m | 87 |
 
 ## 👤 Author
 **[Jakub Czupik]**
