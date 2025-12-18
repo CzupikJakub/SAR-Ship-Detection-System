@@ -1,5 +1,10 @@
 # 🛰️ Maritime Ship Detection & Intelligence System (SAR)
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-SAR%20%7C%20Radar-7f8c8d?style=for-the-badge)
+![Tech](https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge)
+![Target](https://img.shields.io/badge/Target-Maritime%20Surveillance-003366?style=for-the-badge)
+
 ## 📋 Project Overview
 This project is an automated pipeline for detecting, classifying, and analyzing maritime vessels using **Synthetic Aperture Radar (SAR)** imagery logic. Unlike optical sensors, this system operates on intensity-based data, simulating real-world monitoring capabilities used in the **NewSpace sector**.
 
